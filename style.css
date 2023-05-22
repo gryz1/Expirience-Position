@@ -1,6 +1,4 @@
-.position {
-    position: relative;
-}
+
 
 .green {
     display: flex;
@@ -21,8 +19,8 @@
     height: 200px;
     background-color: red;
     margin-bottom: 25px;
-    left: 220px;
-    top: 114px;
+    left: 440px;
+    top: 228px;
 }
 
 .blue {
@@ -33,4 +31,18 @@
     width: 200px;
     height: 200px;
     background-color: blue;
+    margin-bottom: 25px;
+    left: 220px;
+    top: 114px;
 }
+
+/* .position1 {
+    display: inline-block;
+    position: relative;
+}
+
+h2 {
+    position: absolute;
+    right: 0;
+    top: 0;
+}    */
