@@ -1,0 +1,36 @@
+.position {
+    position: relative;
+}
+
+.green {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    margin-bottom: 25px;
+}
+
+.red {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin-bottom: 25px;
+    left: 220px;
+    top: 114px;
+}
+
+.blue {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
